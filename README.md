@@ -23,3 +23,7 @@ This project demonstrates my documentation and troubleshooting skills by providi
 - Networking basics
 - Microsoft 365 support
 - Technical documentation
+- Git & GitHub
+- Helpdesk Support
+- Active Directory
+- Problem Solving
